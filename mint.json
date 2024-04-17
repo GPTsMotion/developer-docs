@@ -7,13 +7,13 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
-    "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
-    }
+      "primary": "#222831",
+      "light": "#8576FF",
+      "dark": "#222831",
+      "anchors": {
+        "from": "#222831",
+        "to": "#A6A9AC"
+      }
   },
   "topbarLinks": [
     {
@@ -37,7 +37,7 @@
   "anchors": [
     {
       "name": "Documentation",
-      "icon": "book-open-cover",
+      "icon": "book-open",
       "url": "https://mintlify.com/docs"
     },
     {
