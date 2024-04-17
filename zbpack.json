@@ -1,0 +1,4 @@
+{
+  "build_command": "npm install -g mintlify",
+  "start_command": "mintlify dev --port $PORT"
+}
