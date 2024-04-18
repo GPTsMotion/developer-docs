@@ -47,12 +47,12 @@
     {
       "name": "Join Community",
       "icon": "discord",
-      "url": "https://mintlify.com/community"
+      "url": "https://gptsmotion.com/community"
     },
     {
-      "name": "We Want U Know",
+      "name": "release notes",
       "icon": "code-commit",
-      "url": "https://mintlify.com/blog"
+      "url": "https://release.gptsmotion.com/"
     }
   ],
   "navigation": [
