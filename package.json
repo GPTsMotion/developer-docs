@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "gptsmotion developers documentation",
   "scripts": {
-    "start": "mintlify dev --port $PORT"
+    "start": "mintlify dev --port $PORT",
+    "dev": "mintlify dev"
   },
   "author": "RiverRay",
   "license": "ISC"
