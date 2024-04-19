@@ -15,6 +15,9 @@
       "to": "#A6A9AC"
     }
   },
+  "search": {
+    "prompt": "Motion Search"
+  },
   "modeToggle": {
     "default": "dark",
     "isHidden": false
@@ -50,7 +53,7 @@
       "url": "https://gptsmotion.com/community"
     },
     {
-      "name": "release notes",
+      "name": "Release notes",
       "icon": "code-commit",
       "url": "https://release.gptsmotion.com/"
     }
