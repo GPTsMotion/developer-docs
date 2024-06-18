@@ -50,10 +50,10 @@
     {
       "name": "Join Community",
       "icon": "discord",
-      "url": "https://gptsmotion.com/community"
+      "url": "https://discord.gg/wwFaFu96"
     },
     {
-      "name": "Release notes",
+      "name": "Release Notes",
       "icon": "code-commit",
       "url": "https://release.gptsmotion.com/"
     }
@@ -65,28 +65,6 @@
         "introduction",
         "quickstart",
         "development"
-      ]
-    },
-    {
-      "group": "Essentials",
-      "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
-      ]
-    },
-    {
-      "group": "Essentials",
-      "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
       ]
     },
     {
